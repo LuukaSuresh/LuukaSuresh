@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-👋 I'm a **Computer Science (Hons) undergraduate** at **Eastern University of Sri Lanka** with a strong passion for **web development, software engineering, and networking**.  
+👋 I'm a **Computer Science (Hons) undergraduate Student** at **Eastern University of Sri Lanka** with a strong passion for **web development, software engineering, and networking**.  
 I love solving complex problems, building scalable applications, and learning cutting-edge technologies.
 
 ---
